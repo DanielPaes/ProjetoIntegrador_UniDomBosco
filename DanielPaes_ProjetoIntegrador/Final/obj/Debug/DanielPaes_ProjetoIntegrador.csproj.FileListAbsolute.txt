@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\bin\Debug\DanielPaes_ProjetoIntegrador.exe.config
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\bin\Debug\DanielPaes_ProjetoIntegrador.exe
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\bin\Debug\DanielPaes_ProjetoIntegrador.pdb
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\DanielPaes_ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\Final.Form1.resources
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\DanielPaes_ProjetoIntegrador.Properties.Resources.resources
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\DanielPaes_ProjetoIntegrador.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\DanielPaes_ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\DanielPaes_ProjetoIntegrador.exe
+C:\Users\danie\Desktop\DanielPaes_ProjetoIntegrador\Final\obj\Debug\DanielPaes_ProjetoIntegrador.pdb
